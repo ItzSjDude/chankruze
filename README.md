@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mandal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chankruze" alt="chankruze" /> </p>
 
-- 🔭 I’m currently working on [TinyURL Website](https://github.com/chankruze/TinyURL-Website)
+- 🔭 I’m currently working on [MovieBoat: download HD YIFY movies in smallest size](https://github.com/chankruze/movie-boat)
 
-- 🌱 I’m currently learning **Kotlin, Typescript, CPP**
+- 🌱 I’m currently developing skills in **React, GraphQL, Kotlin, CPP**
 
-- 💬 Ask me about **android, java**
+- 💬 Ask me about **android, java, react, javascript**
 
 - 📫 How to reach me **chankruze@geekofia.in**
 
