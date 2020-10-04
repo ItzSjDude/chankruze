@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MovieBoat: download HD YIFY movies in smallest size](https://github.com/chankruze/movie-boat)
 
-- 🌱 I’m currently developing skills in **React, GraphQL, Kotlin, CPP**
+- 🌱 I’m currently developing skills in **React, GraphQL, Gatsby, Kotlin, CPP**
 
 - 💬 Ask me about **android, java, react, javascript**
 
