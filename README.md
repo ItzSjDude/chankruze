@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mandal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chankruze" alt="chankruze" /> </p>
 
-- 🔭 I’m currently working on [MovieBoat: download HD YIFY movies in smallest size](https://github.com/chankruze/movie-boat)
+- 🔭 I’m currently working on [Hunter: Ultimate SX VIP Hacks](https://hunter.org.in)
 
-- 🌱 I’m currently developing skills in **React, GraphQL, Gatsby, Kotlin, CPP**
+- 🌱 I’m currently developing skills in **React, GraphQL and Kotlin**
 
 - 💬 Ask me about **android, java, react, javascript**
 
